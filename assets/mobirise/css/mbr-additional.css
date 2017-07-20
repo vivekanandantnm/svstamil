@@ -37,7 +37,7 @@
   color: #ffffff;
 }
 #msg-box4-3 .mbr-article P {
-  font-size: 15px;
+  font-size: 14px;
 }
 #msg-box5-4 .mbr-header__text {
   color: #ffffff;
@@ -47,6 +47,9 @@
 }
 #msg-box5-4 .mbr-article {
   color: #ffffff;
+}
+#msg-box5-4 .mbr-article P {
+  font-size: 14px;
 }
 #msg-box3-8 .mbr-header .mbr-header__text {
   text-align: center;
@@ -132,4 +135,60 @@
 }
 #content5-k .mbr-article {
   color: #fff;
+}
+#content5-l .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-l .mbr-article {
+  color: #fff;
+}
+#content5-m .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-m .mbr-article {
+  color: #fff;
+}
+#content5-n .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-n .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-n .mbr-article {
+  color: #fff;
+}
+#msg-box1-o .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-o .mbr-article {
+  color: #fff;
+}
+#msg-box1-p .mbr-header .mbr-header__text {
+  color: #faaf40;
+}
+#msg-box1-p .mbr-article {
+  color: #7ac673;
+}
+#header3-r H3 {
+  text-align: center;
+}
+#slider2-q H1 {
+  font-size: 20px;
+  color: #f7da64;
+}
+#slider2-q P {
+  color: #27aae0;
+  font-size: 18px;
 }
